@@ -2,6 +2,7 @@
 # How to use 
 1. create conda environment with packages in requirement.txt
 2. fill your own config setting
+   
    '''
    python 
    self.config = {
@@ -26,4 +27,5 @@
             'reference_frame': 'world',  # 世界坐标系作为参考
         }
    '''
+   
    3. run the program and repalce camera with the feedback
