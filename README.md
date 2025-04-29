@@ -26,6 +26,7 @@
             # 参考坐标系
             'reference_frame': 'world',  # 世界坐标系作为参考
         }
+   python
    '''
    
    3. run the program and repalce camera with the feedback
