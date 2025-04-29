@@ -3,8 +3,7 @@
 1. create conda environment with packages in requirement.txt
 2. fill your own config setting
    
-   '''
-   python 
+   '''python 
    self.config = {
             # 标定板参数
             'checkerboard_size': (10, 8),  # 标定板内角点数量
@@ -25,8 +24,6 @@
             
             # 参考坐标系
             'reference_frame': 'world',  # 世界坐标系作为参考
-        }
-   python
-   '''
+        } '''
    
    3. run the program and repalce camera with the feedback
